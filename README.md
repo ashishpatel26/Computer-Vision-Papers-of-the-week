@@ -1,7 +1,7 @@
 # ComputerVision Papers of the week
 **![](https://github.com/ashishpatel26/Computer-Vision-Papers-of-the-week/raw/main/icon/Colorful%20Futuristic%20Technology%20Poster.gif)**
 
-📃 **Computer Vision Papers of the week: A Brand New Program to Dig Into the Field of Computer Vision **
+📃 **Computer Vision Papers of the week: A Brand New Program to Dig Into the Field of Computer Vision**
 
 ---
 
